@@ -85,6 +85,7 @@ specific-sourceforge-mirror :: Attempting to use specific sourceforge mirror, us
 symlink-found %s points to %s :: Symlink (%s) found that points to %s
 systemd-location %s :: File %s should be in /usr/lib/systemd/system/
 too-many-checksums %s %i needed :: Too many %s: %i needed
+unquoted-dirvar %s :: Variable %s is not quoted.
 unused-sodepend %s %s :: Unused shared library '%s' by file ('%s')
 use-pkgdir :: Use $pkgdir instead of $startdir/pkg
 use-srcdir :: Use $srcdir instead of $startdir/src
